@@ -1,14 +1,12 @@
-*Predicting Electric Bike Usage in the D.C. area using weather data: A
-machine learning approach*
+# Predicting Electric Bike Usage in the D.C. area using weather data: A machine learning approach
 
-Vinay Kota
+## Vinay Kota
 
 And
 
-Sanathkumar Chiluveru
+## Sanathkumar Chiluveru
 
-[GitHub Repo
-Link](https://github.com/Vinaykota81/Data606CapstoneProject)
+### [GitHub Repo Link](https://github.com/Vinaykota81/Data606CapstoneProject)
 
 ***Abstract***
 
