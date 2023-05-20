@@ -185,9 +185,7 @@ total bike rentals in Washington, D.C. This significant proportion
 demonstrates the growing acceptance and adoption of electric bikes among
 the users of the bike-sharing program.
 
-<img src="./media/image1.png"
-style="width:3.27083in;height:2.73958in" /><img src="./media/image2.png"
-style="width:3.81389in;height:2.20833in" />On average, people renting
+<img src="./media/image1.png" /><img src="./media/image2.png" />On average, people renting
 bikes in Washington, D.C. typically use them for short commutes, with
 rental durations ranging from 10 to 20 minutes. The majority of rentals
 fall within the range of 5 to 10 minutes, indicating that many users
@@ -204,8 +202,7 @@ during the ride. This finding further reinforces the notion that bike
 sharing is primarily utilized for short-distance trips and serves as a
 convenient transportation option for shorter commutes within the city.
 
-<img src="./media/image3.png"
-style="width:5.32292in;height:2.75529in" />
+<img src="./media/image3.png" />
 
 During weekdays, Monday to Friday, the rental patterns exhibit distinct
 peak periods. In the morning, typically between 8 am and 9 am, there is
@@ -215,8 +212,7 @@ means of commuting to work during the morning rush hours. Similarly, in
 the evening, around 5 pm to 6 pm, there is another peak in bike rentals.
 This aligns with the end of office hours, indicating that people rely on
 electric bikes to travel back home after work.
-<img src="./media/image4.png"
-style="width:6.46759in;height:2.69792in" />
+<img src="./media/image4.png"/>
 
 Conversely, on weekends, a different trend emerges. The count of rentals
 gradually increases as the day progresses, suggesting that individuals
@@ -230,8 +226,7 @@ aligning the distribution and availability of electric bikes with the
 peak commuting hours during weekdays and adapting to the evolving rental
 patterns on weekends, the bike-sharing program can better cater to the
 needs of its users and enhance the overall user experience.
-<img src="./media/image5.png"
-style="width:6.67708in;height:3.38194in" />
+<img src="./media/image5.png" />
 
 Analyzing the monthly statuses of electric bike usage reveals a
 noticeable trend. There is a slight decline in usage after the summer
@@ -253,8 +248,7 @@ patterns due to seasonal changes. Despite the slight decrease, electric
 bikes continue to serve as a popular transportation option in
 Washington, D.C.
 
-<img src="./media/image6.png"
-style="width:3.73958in;height:2.65625in" />Upon analyzing the plot, a
+<img src="./media/image6.png" />Upon analyzing the plot, a
 clear pattern emerges regarding the relationship between weather
 conditions and bike rentals. The majority of rentals occur when the sky
 is cloudy or partially cloudy, while rentals are significantly lower
@@ -281,7 +275,7 @@ Additionally, it underscores the importance of considering weather
 patterns and their impact on user preferences when designing marketing
 campaigns and promoting bike rentals during specific weather conditions.
 
-<img src="./media/image7.png" style="width:6.5in;height:3.22473in" />
+<img src="./media/image7.png"/>
 
 The correlation coefficients in the table indicate the strength and
 direction of the linear relationship between each pair of variables.
@@ -291,8 +285,7 @@ Temperature (temp) has a positive correlation (0.181257) with the count
 of bikes rented per quarter (count_of_bikes_quater), indicating that
 higher temperatures are associated with increased bike rentals.
 
-<img src="./media/image8.png"
-style="width:6.97917in;height:3.24792in" />Humidity (humidity) has a
+<img src="./media/image8.png"/>Humidity (humidity) has a
 negative correlation (-0.190753) with bike rentals, suggesting that
 higher humidity levels are slightly associated with fewer rentals.
 
@@ -317,7 +310,7 @@ variables and the count of rentals, it is evident that three factors
 significantly contribute to the fluctuations in bike demand:
 temperature, precipitation, and solar radiation.
 
-<img src="./media/image9.png" style="width:6.5in;height:4.38745in" />
+<img src="./media/image9.png"/>
 
 **Temperature:** The scatter plot shows a clear positive trend between
 temperature and the count of rentals. As temperature increases, there is
@@ -345,7 +338,7 @@ previous studies and recommendations, it has been suggested that Random
 Forest Regression tends to yield superior results in similar contexts.
 
 | **Model**                    | **Mean Square Error** | **Root Mean Square Error** | **R-Square Value** |
-|------------------------------|-----------------------|----------------------------|--------------------|
+|---------------------|----------------|-------------------|----------------|
 | Linear Regression            | 414.98132399574905    | 20.371090397810054         | 0.7847564616011757 |
 | KNN Regression               | 4.698329088615971     | 2.167562937636638          | 0.5184173052130958 |
 | Random Forest Regression     | 1.3425534877484666    | 1.1586861040629022         | 0.8623871350152861 |
@@ -367,8 +360,7 @@ this context.
 Below is a sample graph of the correct predictions made for the 100 data
 points on the test set:
 
-<img src="./media/image10.png"
-style="width:6.21875in;height:3.17152in" />
+<img src="./media/image10.png" />
 
 **Conclusion**
 
